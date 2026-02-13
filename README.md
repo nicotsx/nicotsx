@@ -10,6 +10,6 @@ I'm open to job opportunities! Feel free to reach out at `jobs@thisprops.com`
 
 **Projects:**
 
-- 0️⃣ [Zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters.
+- 0️⃣ [Zerobyte](https://github.com/nicotsx/zerobyte) — Backup automation for self-hosters.
 - ⛺ [Runtipi](https://runtipi.io/) — Homeserver management made easy.
 - 👨‍💻 [Portfolio](https://meienberger.dev/) — My personal website
