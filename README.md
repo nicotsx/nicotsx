@@ -6,8 +6,6 @@ Most of my free time is spent building the free and open-source projects [Zeroby
 
 I sometimes also work and experiment on different other projects that you can find here on my GitHub profile.
 
-I'm open to job opportunities! Feel free to reach out at `jobs@thisprops.com`
-
 **Projects:**
 
 - 0️⃣ [Zerobyte](https://github.com/nicotsx/zerobyte) — Backup automation for self-hosters.
